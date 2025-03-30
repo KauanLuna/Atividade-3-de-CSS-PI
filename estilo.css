@@ -69,3 +69,14 @@ h1 {
     flex-flow: row wrap;
     justify-content: space-evenly;
 }
+
+.container-exercicioB {
+    display: flex;
+    flex-flow: column-reverse wrap;
+}
+
+.container-desafio {
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: flex-end;
+}
